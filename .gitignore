@@ -1,0 +1,14 @@
+*.db
+*.ipch
+*.pch
+*.db-wal
+*.pdb
+*.obj
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.config
+*.tlog
+*.log
+*.db-shm
